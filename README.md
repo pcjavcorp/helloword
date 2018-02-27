@@ -13,3 +13,6 @@ uses System.StrUtils,
      CodeSiteLogging,
 {$ENDIF}
      System.Hash;
+
+
+Parte 2 del repositorio 
